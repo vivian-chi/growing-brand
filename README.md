@@ -8,6 +8,8 @@ growing-brand is a thin layer for AI-assisted design work (built for [Claude Cod
 
 **No routine. No ratings. Nothing to run.** You just work — and the work stops forgetting.
 
+![Four markdown files as a distillation tower: raw judgments in journal.md are distilled upward into moves.md, tokens.md, and finally core.md — every promoted rule citing its evidence entries](docs/preview.png)
+
 ## How it works
 
 Three things happen automatically, inside whatever you were already doing:
