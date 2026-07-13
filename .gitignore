@@ -1,0 +1,15 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# local AI-tool files (never ship personal context)
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/
+
+# a brand grown inside this repo while dogfooding stays local (root only —
+# example/brand/ is part of the repo)
+/brand/
